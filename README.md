@@ -30,3 +30,7 @@ This project was created to practice front-end web development and JavaScript.
 ## Author
 
 Raj Koutham
+
+## Screenshot
+
+![Expense Tracker](images/expense-tracker.png)
