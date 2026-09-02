@@ -29,4 +29,4 @@ This project was created to practice front-end web development and JavaScript.
 
 ## Author
 
-Your Name
+Raj Koutham
